@@ -901,11 +901,11 @@ input, textarea, input[type="submit"]:focus {
 @media screen and (min-width: 790px) {
     .site-navigation .menu li a:hover, .site-navigation .nav-menu li a:hover {
         color: #FFF;
-        background: red;
+        background: DarkViolet ;
     }
 }
 .site-navigation .menu li.current-menu-item a, .site-navigation .menu li.current_page_item a, .site-navigation .nav-menu li.current-menu-item a, .site-navigation .nav-menu li.current_page_item a {
-    color: red;
+    color: DarkViolet ;
 }
 @media screen and (min-width: 790px) {
     .site-navigation .menu li.current-menu-item a, .site-navigation .menu li.current_page_item a, .site-navigation .nav-menu li.current-menu-item a, .site-navigation .nav-menu li.current_page_item a {
